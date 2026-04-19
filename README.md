@@ -28,7 +28,7 @@ Skills are instructions loaded into an AI agent's context. Before installing:
 
 ```
 /plugin marketplace add stoating/clojure-shadow-cljs-skill
-/plugin install clojure-shadow-cljs@clojure-shadow-cljs-skill
+/plugin install shadow-cljs@clojure-shadow-cljs-skill
 ```
 
 Invoke it with:
@@ -47,7 +47,7 @@ Update later:
 
 ```
 /plugin marketplace add stoating/plugins
-/plugin install clojure-shadow-cljs@stoating
+/plugin install shadow-cljs@stoating
 ```
 
 ### C) Claude Code (manual copy)
