@@ -1,0 +1,17 @@
+{
+  "name": "clojure-shadow-cljs-skill",
+  "metadata": {
+    "description": "ClojureScript shadow-cljs skill set for AI coding agents - project setup, shadow-cljs.edn builds, targets, watch/release commands, dev-http, REPLs, npm interop, testing, and troubleshooting."
+  },
+  "owner": {
+    "name": "stoating"
+  },
+  "plugins": [
+    {
+      "name": "clojure-shadow-cljs",
+      "source": "./",
+      "description": "ClojureScript shadow-cljs skill - project setup, shadow-cljs.edn builds, targets, watch/release commands, dev-http, REPLs, npm interop, testing, and troubleshooting.",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "clojure-shadow-cljs",
+  "description": "ClojureScript shadow-cljs skill - project setup, shadow-cljs.edn builds, targets, watch/release commands, dev-http, REPLs, npm interop, testing, and troubleshooting.",
+  "version": "0.1.0",
+  "skills": "./"
+}
